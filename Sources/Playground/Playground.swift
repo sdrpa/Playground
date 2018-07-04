@@ -1,3 +1,3 @@
 struct Playground {
-    var text = "Hi, Playground!"
+    var text = "HI, Playground!"
 }
